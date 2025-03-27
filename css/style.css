@@ -1,0 +1,59 @@
+body {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  margin: 0;
+  background-color: rgba(0, 0, 0, 0.121);
+}
+h2 {
+  text-align: center;
+}
+/* main */
+.main {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("https://merciej.com/images/assets/porsche.banner.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  padding: 2rem 0;
+}
+.main > h1 {
+  text-align: center;
+}
+.main > img {
+  margin: 0 auto;
+  display: block;
+}
+.main > div {
+  margin: 0 auto;
+  width: 600px;
+  margin-bottom: 4rem;
+}
+.main-text {
+  text-align: justify;
+}
+/* main info */
+.main-info {
+  margin: 0 auto;
+  width: 600px;
+}
+.main-list {
+  margin: 0 auto;
+}
+.main-list img {
+  margin: 0 auto;
+  display: block;
+  padding-top: 1rem;
+}
+/* model */
+.model {
+  margin: 0 auto;
+  width: 600px;
+}
+.gorizontal-img {
+  margin: 0 auto;
+  display: block;
+}
+/* proprty */
+.proprty {
+  margin: 0 auto;
+  width: 600px;
+  font-family: "Times New Roman", Times, serif;
+}

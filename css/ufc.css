@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+}
+h1,
+h2 {
+  text-align: center;
+}
+ul {
+  list-style: none;
+}
+/* ufc main */
+.ufc-main {
+  padding: 2rem;
+  width: 800px;
+  margin: 0 auto;
+  height: 400px;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("https://live.staticflickr.com/2905/14021461253_250a2e41de_h.jpg")
+      no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.ufc-main h1 {
+  text-align: center;
+  font-family: monospace;
+  font-size: 3.5rem;
+  color: red;
+}
+.ufc-main p {
+  color: white;
+  font-size: 1.4rem;
+}
+/* ufc about */
+.ufc-about {
+  width: 600px;
+  margin: 0 auto;
+}
+/* ufc weight */
+.ufc-weight {
+  width: 700px;
+  margin: 0 auto;
+}
+.ufc-prime {
+  margin: 0 auto;
+  width: 1050px;
+}
+/* ufc tournament */
+.ufc-tournament {
+  width: 500px;
+  margin: 0 auto;
+}

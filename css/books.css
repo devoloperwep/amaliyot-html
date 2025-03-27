@@ -1,0 +1,66 @@
+body {
+  margin: 0;
+}
+h1,
+h2 {
+  text-align: center;
+}
+ul {
+  list-style: none;
+}
+/* book about */
+.book-about {
+  text-align: center;
+  width: 900px;
+  margin: 0 auto;
+  background-color: rgba(32, 155, 118, 0.436);
+  padding: 2rem;
+}
+/* book read */
+.book-read {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+}
+.book-read > div {
+  width: 500px;
+  margin-top: 3rem;
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 1rem;
+  text-align: center;
+}
+/* book type */
+.book-type {
+  background: url("https://cssdeck.com/blog/wp-content/uploads/2022/04/image-background.jpg")
+    no-repeat;
+  background-size: cover;
+  padding: 3rem;
+  width: 600px;
+  margin: 0 auto;
+}
+.book-type h2 {
+  color: red;
+}
+/* book power */
+.book-power {
+  width: 600px;
+  background: #66ff00;
+  background-size: cover;
+  padding: 3rem;
+  margin: 0 auto;
+}
+.book-power h2 {
+  color: #fff;
+}
+/* book profit */
+.book-profit {
+  width: 800px;
+  padding: 3rem;
+  margin: 0 auto;
+}
+.book-my {
+  width: 900px;
+  margin: 0 auto;
+}

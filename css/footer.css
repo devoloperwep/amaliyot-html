@@ -1,0 +1,14 @@
+/* footer */
+footer {
+  background: rgba(155, 26, 26, 0.486);
+  padding: 1rem;
+}
+.footer-list {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.footer-link {
+  font-size: 1.2rem;
+}

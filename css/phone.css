@@ -1,0 +1,81 @@
+body {
+  margin: 0;
+}
+h1,
+h2 {
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+}
+/* phone about */
+.phone-about {
+  width: 600px;
+  margin: 0 auto;
+  padding: 3rem;
+  color: white;
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(155, 155, 212, 1) 38%,
+    rgba(0, 212, 255, 0.7646708341539741) 93%
+  );
+}
+.phone-about h2 {
+  color: black;
+}
+/* phone history */
+.phone-history {
+  width: 600px;
+  margin: 0 auto;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("https://themobilephone.wordpress.com/wp-content/uploads/2009/02/mobile-phone-timeline.jpg")
+      no-repeat;
+  background-size: cover;
+  padding: 3rem;
+  color: orange;
+}
+/* phone type */
+.phone-type {
+  width: 600px;
+  margin: 0 auto;
+  background-image: url("https://www.techadvisor.com/wp-content/uploads/2025/03/best-phones-2025-4.jpg?quality=50&strip=all&w=1024");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 3rem;
+  color: white;
+}
+/* phone brend */
+.phone-brend {
+  width: 600px;
+  margin: 0 auto;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("https://www.cnet.com/a/img/resize/552e099164dae5b22840cf845e9bd3a2f4874ba0/hub/2024/09/18/f4dfbd54-08f9-42cc-9309-1c3923a06558/iphone-16-plus-pro-pro-max-family-4559.jpg?auto=webp&fit=crop&height=675&width=1200");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 3rem;
+  color: aqua;
+}
+/* phone task */
+.phone-task {
+  width: 600px;
+  margin: 0 auto;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("https://st2.depositphotos.com/2501025/5406/i/450/depositphotos_54065893-stock-photo-hacker.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 3rem;
+  color: aqua;
+}
+/* phone after */
+.phone-after {
+  width: 600px;
+  margin: 0 auto;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("https://salesway.uz/wp-content/uploads/2024/04/5e12a3b81af2017b6b28b6a879e6e8da.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 3rem;
+  color: rgb(243, 247, 244);
+}
